@@ -22,7 +22,7 @@
                 };
                 lower_layer {
                         bindings = <
-   &trans    &kp LT          &trans          &kp KP_MULTIPLY &kp KP_DIVIDE    &kp KP_LPAR                   &kp KP_RPAR       &kp KP_MINUS &kp KP_PLUS &trans  &kp EQUAL   &trans  
+   &trans    &kp LT          &trans          &kp KP_MULTIPLY &kp KP_DIVIDE    &kp LPAR                      &kp RPAR     &kp KP_MINUS &kp KP_PLUS &trans  &kp EQUAL   &trans  
    &trans    &kp KP_N5       &kp KP_N4       &kp KP_N3       &kp KP_N2        &kp KP_N1                     &kp KP_N6    &kp KP_N7    &kp KP_N8   &kp KP_N9    &kp KP_N0   &trans
    &trans    &kp HOME        &trans          &trans          &trans           &trans                        &kp LEFT     &kp UP       &kp DOWN    &kp RIGHT    &kp END     &trans
                                              &trans          &trans           &trans                        &trans       &trans       &trans
